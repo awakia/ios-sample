@@ -1,0 +1,4 @@
+platform :ios, "5.0"
+xcodeproj '../../IosSample.xcodeproj'
+pod 'JASidePanels'
+pod 'JSMessagesViewController'
